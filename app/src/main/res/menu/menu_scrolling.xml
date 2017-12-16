@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="sierra.org.egelisoft.ScrollingActivity">
+    <item
+        android:id="@+id/ajustes_iniciales"
+        android:orderInCategory="100"
+        android:title="@string/ajustes_iniciales"
+        app:showAsAction="never" />
+</menu>

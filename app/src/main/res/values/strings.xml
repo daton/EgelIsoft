@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ISOFT</string>
+    <string name="large_text">
+        "Guía y entrenador EGEL ISOFT.\n\n"
+
+        "Esta aplicación está diseñada como una guía y apoyo de estudio para presentar el examen EGEL en "
+        "ingeniería de Software.\n"
+        "Contiene las áreas a evaluar en el examen oficial.\n\n"
+
+        "Espera pronto más información.\n\n"
+        \n\n"
+    </string>
+    <string name="ajustes_iniciales">Ir a Guía</string>
+    <string name="title_activity_main">Exámenes</string>
+
+    <string name="navigation_drawer_open">Abrir la navegación</string>
+    <string name="navigation_drawer_close">Cerrar la navegación</string>
+
+    <string name="action_settings">Ajustes</string>
+</resources>
